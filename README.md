@@ -22,9 +22,6 @@ CSS managed by Semantic UI,
 
 * Use 'npm run' to execture program
 * To view hte web app, go to http://localhost:3000/
-```
-code blocks for commands
-```
 
 ## Authors
 
